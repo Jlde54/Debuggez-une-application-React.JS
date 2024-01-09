@@ -1,0 +1,3 @@
+debugging js : components\Icon, components\Select, containers\Events, containers\Form, containers\Slider, helpers\Date,  pages\Home.
+debugging scss : components\EvenCard, pages\Home.
+add tests : components\Icon, helpers\Date, pages\Home.
